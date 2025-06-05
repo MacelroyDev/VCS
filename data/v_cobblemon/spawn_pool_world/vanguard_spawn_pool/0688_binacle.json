@@ -1,0 +1,21 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "binacle-3",
+            "pokemon": "binacle",
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "6-31",
+            "weight": 5.04,
+            "condition": {
+                "biomes": [
+                    "terralith:warped_mesa"
+                ]
+            }
+        }
+    ]
+}

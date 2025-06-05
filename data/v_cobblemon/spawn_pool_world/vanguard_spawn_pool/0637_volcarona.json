@@ -1,0 +1,25 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "volcarona-1",
+            "pokemon": "volcarona",
+            "presets": [
+                "natural",
+                "desert_pyramid"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "59-64",
+            "weight": 16.0,
+            "condition": {
+                "biomes": [
+                    "terralith:warped_mesa"
+                ]
+            }
+        }
+    ]
+}
