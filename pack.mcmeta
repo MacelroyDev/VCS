@@ -1,0 +1,14 @@
+{
+ "pack": {
+   "pack_format": 15,
+   "description": "Vanguard Cobblemon Spawns | By Macelroy"
+ },
+   "filter": {
+     "block": [
+       {
+         "namespace": "cobblemon",
+         "path": "spawn_pool_world"
+       }
+     ]
+   }
+}
