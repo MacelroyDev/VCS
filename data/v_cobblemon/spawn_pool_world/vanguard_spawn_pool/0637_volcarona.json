@@ -17,7 +17,7 @@
             "weight": 16.0,
             "condition": {
                 "biomes": [
-                    "terralith:warped_mesa"
+                    "v_cobblemon:vanguard_safari_zone"
                 ]
             }
         }

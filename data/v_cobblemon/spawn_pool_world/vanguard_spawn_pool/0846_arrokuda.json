@@ -17,7 +17,7 @@
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
-                    "terralith:warped_mesa"
+                    "v_cobblemon:vanguard_safari_zone"
                 ]
             }
         }

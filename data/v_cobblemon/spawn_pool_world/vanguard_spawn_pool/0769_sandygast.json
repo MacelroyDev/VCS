@@ -21,7 +21,7 @@
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
                 "biomes": [
-                    "terralith:warped_mesa"
+                    "v_cobblemon:vanguard_safari_zone"
                 ]
             }
         }
